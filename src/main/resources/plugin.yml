@@ -1,0 +1,4 @@
+name: LogSearch
+version: '1.0'
+main: org.wayggstar.logSearch.LogSearch
+api-version: '1.21'
